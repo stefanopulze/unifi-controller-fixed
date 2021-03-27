@@ -3,7 +3,7 @@ This script remove the  old version mongodb dependecies required from unifi cont
 
 ### Usage
 ```bash
-unifi-constroller.sh <unifi_controller_version> [temp_folder]
+unifi-controller.sh <unifi_controller_version> [temp_folder]
 ```
 
 ### How to find latest unifi controller
